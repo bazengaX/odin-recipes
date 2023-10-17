@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first Odin project.The objective of this project was to evaluate my understanding of the concepts that i have learnt recently.I have just gotten started on html and taken on concepts such as the basic layout of html documents and importamt elements such as lists,images and links.I hope this project will show my prowess in the concepts.
